@@ -4,10 +4,10 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Jonggyu Bak
+    name: Jonggyu Park
     tagline: Kernel Developer/Researcher
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -47,13 +47,14 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+   received his B.S. degree in Software from
+   Sungkyunkwan University, Korea in 2014 and his M.S.
+   degree in Platform Software from Sungkyunkwan
+   University in 2016. He is currently working toward the
+   Ph.D. degree in the Department of Computer Science and
+   Engineering, Sungkyunkwan University. His research
+   interests include storage systems, and operating systems.
 
-      Second paragraph if required.
 
 education:
     - degree: MS in Platform Software
