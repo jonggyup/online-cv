@@ -46,9 +46,9 @@ p {
     width: 280px;
     height: 100%;
     min-height: 800px;
-    color: #fff;
+    color: #FFC312;
     a {
-        color: #fff;
+        color: #FFC312;
     }
     .profile-container {
         padding: 30px;
@@ -231,6 +231,7 @@ p {
     }
     .publications-section {
         .intro {
+	    font-size: 16px;
             margin-bottom: 30px;
         }
         .item {
