@@ -15,10 +15,12 @@
     {{ publications.intro | markdownify }}
   </div><!--//intro-->
   {% endif %}
-
+  
+  <div class="intro">
   1. Published International Journal Articles
+  </div>
 
-  {% for publication in publications.jounralpapers %}
+  {% for publication in publications.journalpapers %}
   <div class="item">
     <div class="publication-title">{{ publication.title }}</div>
     <div class="publication-authors">{{ publication.authors }}</div>
@@ -26,7 +28,9 @@
   </div><!--//item-->
   {% endfor %}
 
+  <div class="intro">
   2. Conference Presentation with Proceedings (Referred)
+  </div>
 
   {% for publication in publications.confpapers %}
   <div class="item">

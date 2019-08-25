@@ -142,7 +142,7 @@ projects:
 
 publications:
     title: Publications
-    jounralpapers:
+    journalpapers:
       - title: URS: User-Based Resource Scheduling for Multi-User Surface Computing Systems
         authors: **Jonggyu Park** and Young Ik Eom
         conference: IEEE Transactions on Consumer Electronics, Jun. 2019.
