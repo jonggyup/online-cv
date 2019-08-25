@@ -142,16 +142,16 @@ projects:
 
 publications:
     title: Publications 
-    journalpapers: |
+    journalpapers:  
       - title: URS: User-Based Resource Scheduling for Multi-User Surface Computing Systems
-        authors: **Jonggyu Park** and Young Ik Eom
+        authors: Jonggyu Park and Young Ik Eom
         conference: IEEE Transactions on Consumer Electronics, Jun. 2019.
 
       - title: Software-based Single-node Multi-GPU Systems for Interactive Display Wall
         authors: Inhyeok Kim, Junghan Kim, **Jonggyu Park**, and Young Ik EOm
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
    
-    confpapers: |
+    confpapers:  
       - title: Grouping Applications Using Geometrical Information of Applications on Tabletop Systems
         authors: **Jonggyu Park**, Inhyeok Kim, and Young Ik Eom
         conference: ACM 30th User Interface Software and Technology Symposium (UIST 2017), Poster. (Acceptance rate: 44%, 25/57) 
