@@ -148,16 +148,16 @@ publications:
         conference: IEEE Transactions on Consumer Electronics, Jun. 2019.
 
       - title: Software-based Single-node Multi-GPU Systems for Interactive Display Wall
-        authors: Inhyeok Kim, Junghan Kim, **Jonggyu Park**, and Young Ik Eom
+        authors: Inhyeok Kim, Junghan Kim, Jonggyu Park, and Young Ik Eom
         conference: IEEE Transactions on Consumer Electronics, Aug. 2017.
    
     confpapers:  
       - title: Grouping Applications Using Geometrical Information of Applications on Tabletop Systems
-        authors: **Jonggyu Park**, Inhyeok Kim, and Young Ik Eom
+        authors: Jonggyu Park, Inhyeok Kim, and Young Ik Eom
         conference: ACM 30th User Interface Software and Technology Symposium (UIST 2017), Poster. (Acceptance rate: 44%, 25/57) 
 
       - title: File Defragmentation Scheme for a Log-Structured Filesystem
-        authors: **Jonggyu Park**, Dong Hyun Kang, and Young Ik Eom
+        authors: Jonggyu Park, Dong Hyun Kang, and Young Ik Eom
         conference: ACM Asia-Pacific Workshop on Systems (APSys 2016). (Acceptance rate: 38%, 20/52) 
 
 skills:
