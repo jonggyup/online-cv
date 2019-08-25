@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Jonggyu Park
@@ -47,7 +47,7 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      received his B.S. degree in Software from
+      I received his B.S. degree in Software from
       Sungkyunkwan University, Korea in 2014 and his M.S.
       degree in Platform Software from Sungkyunkwan
       University in 2016. He is currently working toward the
@@ -57,31 +57,16 @@ career-profile:
 
 
 education:
-    - degree: MS in Platform Software
+    - degree: M.S. in Platform Software
       university: Sungkyunkwan University, South Korea
       time: 2014 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        
+          - Thesis: Thesis: An Efficient Cleaning Scheme for File Defragmentation on Log-Structured File System
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BS in Software
+    - degree: B.S. in Software
       university: Sungkyunkwan University, South Korea
       time: 2011 - 2014
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
 experiences:
     - role: Lead Developer
