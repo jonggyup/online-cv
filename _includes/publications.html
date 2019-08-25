@@ -16,13 +16,26 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for publication in publications.papers %}
+  1. Published International Journal Articles
+
+  {% for publication in publications.jounralpapers %}
   <div class="item">
     <div class="publication-title">{{ publication.title }}</div>
     <div class="publication-authors">{{ publication.authors }}</div>
     <div class="publication-conference">{{ publication.conference }}</div>
   </div><!--//item-->
   {% endfor %}
+
+  2. Conference Presentation with Proceedings (Referred)
+
+  {% for publication in publications.confpapers %}
+  <div class="item">
+    <div class="publication-title">{{ publication.title }}</div>
+    <div class="publication-authors">{{ publication.authors }}</div>
+    <div class="publication-conference">{{ publication.conference }}</div>
+  </div><!--//item-->
+  {% endfor %}
+
 
 </section><!--//section-->
 {% endif %}
