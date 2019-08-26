@@ -58,11 +58,11 @@ career-profile:
 
 education:
 
-    - degree: |
-            Ph.D. in Dept. of Computer Science and Engineering
-           'Advisor: Young Ik Eom'
+    - degree: Ph.D. in Dept. of Computer Science and Engineering
       university: Sungkyunkwan University, South Korea
       time: 2016 - Present
+      details: |
+              'Advisor: Young Ik Eom'
 
     - degree: M.S. in Platform Software
       university: Sungkyunkwan University, South Korea
