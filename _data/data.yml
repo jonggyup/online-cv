@@ -150,11 +150,11 @@ projects:
 publications:
     title: Publications 
     journalpapers:  
-      - title: Anti-Aging LFS: Self-Defragmentation With Fragmentation-Aware Cleaning
+      - title: "Anti-Aging LFS: Self-Defragmentation With Fragmentation-Aware Cleaning"
         authors: Jonggyu Park and Young Ik Eom
         conference: IEEE ACCESS, Aug. 2020.
 
-      - title: URS: User-Based Resource Scheduling for Multi-User Surface Computing Systems
+      - title: "URS: User-Based Resource Scheduling for Multi-User Surface Computing Systems"
         authors: Jonggyu Park and Young Ik Eom
         conference: IEEE Transactions on Consumer Electronics, Jun. 2019.
 
